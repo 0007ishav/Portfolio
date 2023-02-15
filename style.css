@@ -25,6 +25,7 @@
 
 .navbar {
     overflow: hidden;
+    background-color: #11111195;
 }
 .navbar .icon {
     display: none;
