@@ -27,7 +27,7 @@ window.onscroll = function effects() {
 window.onload = function(){
 
     var pageTitle = document.title;
-    var attentionMessage = "Come Back!";
+    var attentionMessage = "Come Back";
     var blinkEvent = null;
 
     document.addEventListener('visibilitychange', function(e)
